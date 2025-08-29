@@ -1,0 +1,6 @@
+# Discord bot dependencies
+discord.js>=14.14.1
+
+# Python dependencies for image generation
+Pillow>=10.0.0
+requests>=2.31.0
